@@ -1,0 +1,64 @@
+@import url('https://fonts.googleapis.com/css2?family=Kirang+Haerang&display=swap');
+
+body{
+    background-image: url(./빽.jpeg);
+    
+}
+.textbox{
+    background-color:rgb(255, 241, 179);
+    padding: 4px;
+
+    color: rgb(0, 128, 66);
+
+    border: 5px dotted #e45768;
+
+    .kirang-haerang-regular 
+        font-family: "Kirang Haerang", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      
+        font-family: "Kirang Haerang", system-ui;
+        font-weight: 400;
+        font-style: normal;
+
+}
+   .설향{
+    width: 50vw;
+    height: 75vh;
+
+    margin: 4px;
+   }
+   .킹스베리{
+    width: 50vw;
+    height: 60vh;
+
+    margin: 4px;
+   }
+   .만년설딸기{
+    width: 50vw;
+    height: 60vh;
+
+    margin: 4px;
+   }
+   .아기{
+    width: 50vw;
+    height: 60vh;
+
+    margin: 4px;
+   }
+   .고양이{
+    width: 45vw;
+    height: 95vh;
+
+    margin: 4px;
+   }
+   h1, h2, h4{
+    .kirang-haerang-regular 
+        font-family: "Kirang Haerang", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      
+        font-family: "Kirang Haerang", system-ui;
+        font-weight: 400;
+        font-style: normal;
+   }
